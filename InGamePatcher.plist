@@ -1,0 +1,7 @@
+{
+	Filter = {
+		Bundles = (
+			"com.gamedev.gamename",
+		);
+	};
+}
